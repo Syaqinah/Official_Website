@@ -1,0 +1,75 @@
+head
+{
+	
+}
+
+body
+{
+	
+}
+
+p
+{
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	font-size:  25px;
+	color: black;
+	background-color: #F5FFFA
+}
+
+li
+{
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	font-size:  25px;
+	color: black;
+	background-color: #F5FFFA
+}
+
+h1
+{
+	font-family: 'Acme', sans-serif;
+	text-align: center;
+	color: rgb(28,85,136);
+	font-size: 50px
+	
+}
+
+h2
+{
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	color: rgb(35,129,120);
+	
+}
+
+h3, a:link, a:visited
+{
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+	color: rgb(45,84,119);
+	text-decoration: none;
+	display: inline-table;
+	background-color: #8FBC8F;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+h3, a:hover, a:active
+{
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+	color: cyan;
+	text-decoration: none;
+	display: inline-table;
+	background-color: #8FBC8F;
+	border-radius: 15px;
+	padding: 15px;
+}
+}
+
+
+
+
+
+
